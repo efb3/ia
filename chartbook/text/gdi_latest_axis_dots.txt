@@ -1,0 +1,1 @@
+\addplot[only marks, white, draw opacity=0, mark size=0.1pt] coordinates {({2023-07-01},7.52) ({2023-07-01}, -3.31)};

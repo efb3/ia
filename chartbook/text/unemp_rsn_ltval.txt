@@ -1,0 +1,4 @@
+\absnode{3.3}{1.1631029375757684}{\scriptsize 1.8}
+\absnode{3.3}{2.258050116153382}{\scriptsize 0.4}
+\absnode{3.3}{2.959747926259025}{\scriptsize 1.0}
+\absnode{3.3}{3.728330974434312}{\scriptsize 0.5}
